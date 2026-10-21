@@ -1,6 +1,6 @@
 # BITE
 
-**AA smart fitness coach, designed and built by one developer over approximately 9 months.**
+**A smart fitness coach mobile app, designed and built as a solo developer over approximately 9 months.**
 
 BITE brings training, nutrition, recovery, progress and coaching into one experience. Members can plan and log workouts, track meals and see how their activity develops over time. The coach uses that context to offer practical, personalized guidance.
 
